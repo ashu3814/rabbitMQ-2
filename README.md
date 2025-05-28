@@ -230,5 +230,4 @@ Monitor the flow through the logs, which include:
 ## License
 
 This project is MIT licensed.
-#   r a b b i t M Q - 2  
- 
+#
